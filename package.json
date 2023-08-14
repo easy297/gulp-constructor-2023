@@ -10,6 +10,7 @@
   "author": "Izim Saibossyn",
   "license": "ISC",
   "devDependencies": {
+    "aos": "^2.3.4",
     "autoprefixer": "^10.4.14",
     "browser-sync": "^2.29.3",
     "del": "^7.0.0",
@@ -28,6 +29,9 @@
     "gulp-webpcss": "^1.1.1",
     "postcss-preset-env": "^9.1.1",
     "sass": "^1.65.1",
-    "webp-converter": "^2.2.3"
+    "swiper": "^10.1.0",
+    "webp-converter": "^2.2.3",
+    "webpack": "^5.88.2",
+    "webpack-stream": "^7.0.0"
   }
 }
