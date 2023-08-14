@@ -48,5 +48,5 @@ Further, what else the assembly can do:
 - when importing, there is no need to write the `.js` file extension, and if you are importing from the `index.js` file, you do not need to specify this:
 
 
-I did the following assembly by the example of a youtube channel [FreelancerLifeStyle] (https://www.youtube.com/@FreelancerLifeStyle)
-and github author [StarkElessar] (https://github.com/StarkElessar)
+I did the following assembly by the example of a youtube channel [FreelancerLifeStyle](/https://www.youtube.com/@FreelancerLifeStyle)
+and github author [StarkElessar](https://github.com/StarkElessar)
